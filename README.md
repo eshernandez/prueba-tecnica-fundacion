@@ -13,4 +13,4 @@ Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://
 - Cd your project
 - npm install
 - npm run dev
-- Open navigator: http://localhost:3000/
+- Open navigator: http://127.0.0.1:3000/

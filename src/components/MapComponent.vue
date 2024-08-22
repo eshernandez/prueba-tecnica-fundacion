@@ -82,8 +82,11 @@
           <!-- //todo@santiago:Revisar la documentacion oficial del la api, ya que nos retorna un abreviado que no se 
           //carga en el iframe, para que funcione debe ser el enlace completo. -->
           <div>
-          <iframe
-            :src="dataPais[0].maps.googleMaps"
+            <!-- `https://www.google.com/maps/embed/v1/view?key=AIzaSyD-ANhY5sbLAmMIXmuQzpvEHHjTBB4xrrM&center=${dataPais[0].latlng[0]},${dataPais[0].latlng[1]}&zoom=5` -->
+            <!-- AIzaSyD-ANhY5sbLAmMIXmuQzpvEHHjTBB4xrrM -->
+            <iframe
+          
+            :src="`https://www.google.com/maps/embed/v1/view?key=AIzaSyBD1uJeM3HBtpcOy-HXwY77ccUSoBJ9g1o&center=${dataPais[0].latlng[0]},${dataPais[0].latlng[1]}&zoom=5`"
             width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy">
           </iframe>
             </div>
@@ -91,7 +94,8 @@
               <a class="text-body-2 font-weight-bold" target="_blank" :href="dataPais[0].maps.googleMaps">click aca para abrir el maps: </a>
               <a class="text-body-2 font-weight-bold" target="_blank" :href="dataPais[0].maps.googleMaps">{{ dataPais[0].maps.googleMaps }}</a>
             </span>
-            <span class="caption">Nota: El mapa no se visualiza en el iframe ya que la api provee un link abreviado, pero si se puede abrir en una nueva pestaña
+            <span class="caption">Nota: El mapa no se visualizaba,pero he aplicado una solucion para ello.
+            <!-- <span class="caption">Nota: El mapa no se visualiza en el iframe ya que la api provee un link abreviado, pero si se puede abrir en una nueva pestaña -->
             </span>
 
         </div>
