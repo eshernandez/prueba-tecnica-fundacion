@@ -13,4 +13,14 @@ Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://
 - Cd your project
 - npm install
 - npm run dev
-- Open navigator: http://127.0.0.1:3000/
+- Open navigator: http://localhost:3000/
+
+# Captures
+1
+![Captura de pantalla 2024-08-21 a la(s) 9 34 04 p m](https://github.com/user-attachments/assets/0c14626f-38da-4cae-a1e4-31e001d389f0)
+
+2
+![Captura de pantalla 2024-08-21 a la(s) 9 34 15 p m](https://github.com/user-attachments/assets/a56d9713-c702-472a-ba09-a3cc5c5e7122)
+
+3
+![Captura de pantalla 2024-08-21 a la(s) 9 34 22 p m](https://github.com/user-attachments/assets/a100761e-9584-49ae-bf15-105c623a9344)
