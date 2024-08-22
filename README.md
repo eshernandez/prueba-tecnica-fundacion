@@ -23,4 +23,4 @@ Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://
 ![Captura de pantalla 2024-08-21 a la(s) 9 34 15 p m](https://github.com/user-attachments/assets/a56d9713-c702-472a-ba09-a3cc5c5e7122)
 
 3
-![Captura de pantalla 2024-08-21 a la(s) 9 34 22 p m](https://github.com/user-attachments/assets/a100761e-9584-49ae-bf15-105c623a9344)
+![Captura de pantalla 2024-08-21 a la(s) 10 01 37 p m](https://github.com/user-attachments/assets/09698557-2099-480e-aa0d-86576227d4d2)
